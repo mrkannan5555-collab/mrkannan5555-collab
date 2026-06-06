@@ -159,7 +159,6 @@ class KannanK:
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kannank&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
